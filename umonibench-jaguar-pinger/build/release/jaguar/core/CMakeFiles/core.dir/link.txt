@@ -1,0 +1,2 @@
+/usr/bin/ar cq /lib/libcore.a  CMakeFiles/core.dir/PingCore.cpp.o CMakeFiles/core.dir/JaguarPingerServer.cpp.o CMakeFiles/core.dir/PingExecutor.cpp.o CMakeFiles/core.dir/PingReceiver.cpp.o CMakeFiles/core.dir/PingTaskGen.cpp.o CMakeFiles/core.dir/PingChecker.cpp.o CMakeFiles/core.dir/PingReporter.cpp.o
+/usr/bin/ranlib /lib/libcore.a

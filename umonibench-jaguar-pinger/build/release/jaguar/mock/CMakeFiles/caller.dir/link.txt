@@ -1,0 +1,1 @@
+g++   -O2 -finline-limit=1000 -DNDEBUG   CMakeFiles/caller.dir/CallBack_test.cc.o  -o ../../bin/caller -rdynamic ../../../../deps/compiled/ubuntu_64/lib/libmuduo_base.a -lpthread 

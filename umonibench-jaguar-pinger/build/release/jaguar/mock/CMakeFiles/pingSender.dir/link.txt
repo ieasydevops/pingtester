@@ -1,0 +1,1 @@
+g++   -O2 -finline-limit=1000 -DNDEBUG   CMakeFiles/pingSender.dir/PingSender.cc.o  -o ../../bin/pingSender -rdynamic ../../lib/libcommon.a -lpthread ../../../../deps/compiled/ubuntu_64/lib/libmuduo_base.a ../../../../deps/compiled/ubuntu_64/lib/libmuduo_net.a -lpthread 

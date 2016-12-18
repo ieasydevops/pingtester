@@ -1,0 +1,1 @@
+g++   -O2 -finline-limit=1000 -DNDEBUG   CMakeFiles/mock_server.dir/JaguarServer.cc.o  -o ../../bin/mock_server -rdynamic /lib/libcore.a ../../lib/libcommon.a ../../../../deps/compiled/ubuntu_64/lib/libmuduo_base.a ../../../../deps/compiled/ubuntu_64/lib/libmuduo_net.a -lpthread -ldl 
